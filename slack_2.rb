@@ -1,4 +1,3 @@
-# 未検証
 require 'slack-notify'
 require 'clockwork'
 include Clockwork
